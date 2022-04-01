@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+img {
+  height: 250px;
+}
+#productsShow {
+  display: grid;
+  grid-template-columns: repeat(2, 250px);
+  margin: auto;
+}
+
+#products {
+  margin-bottom: 35px;
+  text-align: center;
+  width: 300px;
+  text-align: center;
+}
+
+.link {
+  margin-top: 25px;
+}
